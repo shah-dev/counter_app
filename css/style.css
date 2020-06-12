@@ -1,14 +1,15 @@
-.my_container{
+.container{
 display: flex;
 flex-direction: column;
 justify-content: space-evenly;
 width: 400px;
-height: 400px;
+height: 50vh;
+margin-top:22vh;
 
-margin-left: 35% ;
-margin-top: 20%;
+
 
 }
+
 h1{
 
     text-align: center;
